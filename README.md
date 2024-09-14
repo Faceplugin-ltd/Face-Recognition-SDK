@@ -15,6 +15,8 @@ Experience the epitome of speed and fairness with our  face recognition model **
 ## Try our Sever SDK on our Playground
 [Faceplugin Playground](https://playground.faceplugin.com/)
 <br></br>
+[Faceplugin HuggingFace](https://huggingface.co/spaces/FacePlugin-Ltd/FaceRecognition-LivenessDetection-SDK)
+<br></br>
 
 <div align="left">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
