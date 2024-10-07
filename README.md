@@ -3,7 +3,9 @@
 </div>
 
 # Face Recognition SDK with 3D passive liveness Detection - Fully On Premise
-Experience the epitome of speed and fairness with our  face recognition model **Top-ranked on NIST FRVT**, coupled with an advanced **iBeta level 2 liveness detection** engine that effectively safeguards against **printed photos, video replay, 3D masks, and deepfake threats**, ensuring top-tier security. <br>This is **on-premise** SDK which means everything is processed on your phone and **NO** data leaves the device 
+## Overview
+Experience our `face recognition SDK` Top-ranked on NIST FRVT , coupled with iBeta level 2 certified `liveness detection SDK` that effectively safeguards against **printed photos, video replay, 3D masks, and deepfake threats**, ensuring top-tier security.
+<br>This is `on-premise face recognition SDK` which means everything is processed on your phone and **NO** data leaves the device 
 <br></br>
 
 ## Try our Mobile SDK on Google Play
@@ -25,7 +27,7 @@ Experience the epitome of speed and fairness with our  face recognition model **
 <img src="https://img.shields.io/github/issues-pr/genderev/assassin" alt="pr"/>
 </div>
 
-<h2>Screenshots</h2>
+## Screenshots
 <div align="left">
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Android/assets/160750757/5665b865-23fc-4c19-9663-5093a975fc66" width=200/>
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Android/assets/160750757/250ac71d-0844-4c26-b4b6-8afa6952f60e" width=200/>
@@ -33,15 +35,14 @@ Experience the epitome of speed and fairness with our  face recognition model **
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceLivenessDetection-Android/assets/160750757/fc5f985c-cf40-41d7-9ff9-a5aab5898a33" width=200/>
 </div>
 
-<h2>On the Youtube</h2>
+## On the Youtube
 <div align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qVtdkwtGtqs" target="_blank">
  <img src="http://img.youtube.com/vi/qVtdkwtGtqs/maxresdefault.jpg" alt="Watch the video" width="960" height="520" border="10" />
 </a>
 </div>
 
-<h2>List of our Products</h2>
-
+## List of our Products
 * **[FaceRecognition-LivenessDetection-Android](https://github.com/Faceplugin-ltd/FaceRecognition-Android)**
 * **[FaceRecognition-LivenessDetection-iOS](https://github.com/Faceplugin-ltd/FaceRecognition-iOS)**
 * **[FaceRecognition-LivenessDetection-Javascript](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript)**
@@ -54,7 +55,7 @@ Experience the epitome of speed and fairness with our  face recognition model **
 * **[Liveness Detection SDK](https://github.com/Faceplugin-ltd/Face-Liveness-Detection-SDK)**
 * **[ID Card Recognition](https://github.com/Faceplugin-ltd/ID-Card-Recognition)**
 
-<h2>Contact</h2>
+## Contact
 <div align="left">
 <a target="_blank" href="mailto:info@faceplugin.com"><img src="https://img.shields.io/badge/email-info@faceplugin.com-blue.svg?logo=gmail " alt="faceplugin.com"></a>&emsp;
 <a target="_blank" href="https://t.me/faceplugin"><img src="https://img.shields.io/badge/telegram-@faceplugin-blue.svg?logo=telegram " alt="faceplugin.com"></a>&emsp;
