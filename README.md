@@ -5,7 +5,7 @@
 # Face Recognition SDK with 3D Passive Liveness Detection - Fully On Premise
 ## Overview
 Experience our `face recognition SDK` Top-ranked on NIST FRVT , coupled with iBeta level 2 certified `liveness detection SDK` that effectively safeguards against **printed photos, video replay, 3D masks, and deepfake threats**, ensuring top-tier security.
-<br>This is `on-premise face recognition SDK` which means everything is processed on your phone and **NO** data leaves the device 
+<br>This is `on-premise face recognition SDK` which means everything is processed in your device and **NO** data leaves the device 
 <br></br>
 
 ## Try our Mobile SDK on Google Play
