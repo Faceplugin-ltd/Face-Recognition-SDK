@@ -57,6 +57,32 @@ Every platform wraps the **same native engine**, so a template extracted on Andr
 
 Mobile defaults: identify threshold **0.67**, liveness threshold **0.5**. The server HTTP API listens on port **8092**.
 
+## Screenshots
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/mobile/identify.gif" width="240" alt="FacePlugin Face Recognition — live 1:N identification with liveness"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/mobile/people.gif" width="240" alt="FacePlugin Face Recognition — enroll people with the guided capture coach"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/mobile/attribute.gif" width="240" alt="FacePlugin Face Recognition — face attributes, quality and landmarks from a photo"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/mobile/liveness.gif" width="240" alt="FacePlugin Face Recognition — passive liveness check on the camera feed"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/mobile/settings.png" width="240" alt="FacePlugin Face Recognition — match, liveness and pose thresholds in Settings"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/windows/demo-ui-detect.png" width="560" alt="FacePlugin Face Recognition Windows demo — Face Detection tab with pose and attributes"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/windows/demo-ui-verify.png" width="560" alt="FacePlugin Face Recognition Windows demo — 1:1 Verification tab with similarity score"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/screenshots/face-recognition/windows/demo-ui-identify.png" width="560" alt="FacePlugin Face Recognition Windows demo — 1:N Identification tab with ranked matches"/>
+</p>
+
 ## Quick start
 
 ```bash
